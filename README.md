@@ -1,2 +1,2 @@
 # 360VRHouseTourFinal
-360 View - the inside of a House
+Basic tour of a house in 360 VR https://pokdostudioprototypes.com/
